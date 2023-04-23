@@ -9,4 +9,5 @@ public class domasno7 {
     String birthDate = "10.09.2000";
     String givenName = "Verica";
     String familyName = "Stoilkova";
+    String index = "191069";
 }
